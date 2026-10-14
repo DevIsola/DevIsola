@@ -63,13 +63,13 @@ My everyday environment is **Linux on WSL2**, **VS Code**, **Git**, and **Python
       <h3>◈ MTG Event Hub</h3>
       <p><strong>In development</strong></p>
       <p>A full-stack platform for community events, vendor workflows, and marketplace experiences.</p>
-      <p><code>Next.js</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Product engineering</code></p>
+      <p><code>Next.js</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Product Engineering</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>◈ Deck Evaluation &amp; ML</h3>
       <p><strong>Research / development</strong></p>
       <p>Exploring Commander deck evaluation with structured metrics, simulation, calibration, and Python-based tooling.</p>
-      <p><code>Python</code> &nbsp; <code>Simulation</code> &nbsp; <code>PyTorch exploration</code></p>
+      <p><code>Python</code> &nbsp; <code>Simulation</code> &nbsp; <code>PyTorch Exploration</code></p>
     </td>
   </tr>
 </table>
