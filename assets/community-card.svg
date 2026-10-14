@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="345" viewBox="0 0 1220 345" role="img" aria-labelledby="title desc"><title id="title">Community Events</title><desc id="desc">Featured project illustration for Community Events.</desc>
+<defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b20"/><stop offset=".55" stop-color="#182b2e"/><stop offset="1" stop-color="#0b171c"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#80bda0" stop-opacity=".29"/><stop offset="1" stop-color="#80bda0" stop-opacity="0"/></radialGradient>
+    <linearGradient id="titleGradient" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f6e7d3"/><stop offset="1" stop-color="#80bda0"/></linearGradient>
+    <pattern id="p" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" stroke="#a7c1b3" stroke-opacity=".055" fill="none"/></pattern>
+    </defs>
+    <rect width="1220" height="345" fill="url(#bg)"/><rect width="1220" height="345" fill="url(#p)"/>
+    <ellipse cx="979" cy="160" rx="310" ry="250" fill="url(#glow)"/>
+    <circle cx="218.0" cy="141.7" r="0.55" fill="#80bda0" opacity="0.27"/>
+<circle cx="809.5" cy="238.2" r="1.5" fill="#80bda0" opacity="0.45"/>
+<circle cx="1051.3" cy="91.5" r="1.5" fill="#80bda0" opacity="0.29"/>
+<circle cx="543.3" cy="198.4" r="0.7" fill="#80bda0" opacity="0.24"/>
+<circle cx="778.8" cy="289.5" r="1.5" fill="#80bda0" opacity="0.43"/>
+<circle cx="912.6" cy="261.4" r="1.2" fill="#80bda0" opacity="0.32"/>
+<circle cx="625.2" cy="209.2" r="0.7" fill="#80bda0" opacity="0.29"/>
+<circle cx="329.5" cy="92.9" r="0.7" fill="#80bda0" opacity="0.46"/>
+<circle cx="202.5" cy="236.6" r="1.2" fill="#80bda0" opacity="0.37"/>
+<circle cx="677.7" cy="90.2" r="0.7" fill="#80bda0" opacity="0.48"/>
+<circle cx="144.7" cy="183.3" r="0.55" fill="#80bda0" opacity="0.18"/>
+<circle cx="138.2" cy="299.2" r="1.2" fill="#80bda0" opacity="0.42"/>
+<circle cx="755.8" cy="50.0" r="0.55" fill="#80bda0" opacity="0.24"/>
+<circle cx="692.6" cy="178.3" r="1.2" fill="#80bda0" opacity="0.27"/>
+<circle cx="979.5" cy="134.1" r="1.2" fill="#80bda0" opacity="0.23"/>
+<circle cx="409.2" cy="292.4" r="1.2" fill="#80bda0" opacity="0.36"/>
+<circle cx="180.3" cy="250.7" r="1.5" fill="#80bda0" opacity="0.32"/>
+<circle cx="962.9" cy="274.8" r="1.5" fill="#80bda0" opacity="0.22"/>
+<circle cx="153.8" cy="206.1" r="1.5" fill="#80bda0" opacity="0.46"/>
+<circle cx="592.3" cy="74.9" r="0.9" fill="#80bda0" opacity="0.17"/>
+<circle cx="507.5" cy="302.4" r="0.7" fill="#80bda0" opacity="0.20"/>
+<circle cx="943.4" cy="241.5" r="0.55" fill="#80bda0" opacity="0.25"/>
+<circle cx="371.2" cy="202.8" r="1.5" fill="#80bda0" opacity="0.43"/>
+<circle cx="1142.6" cy="147.6" r="0.9" fill="#80bda0" opacity="0.16"/>
+<circle cx="1123.7" cy="238.4" r="0.7" fill="#80bda0" opacity="0.24"/>
+<circle cx="1169.8" cy="30.3" r="1.2" fill="#80bda0" opacity="0.22"/>
+<circle cx="449.7" cy="314.5" r="0.7" fill="#80bda0" opacity="0.36"/>
+<circle cx="852.5" cy="221.4" r="1.5" fill="#80bda0" opacity="0.25"/>
+<circle cx="846.4" cy="204.3" r="1.5" fill="#80bda0" opacity="0.38"/>
+<circle cx="535.0" cy="219.2" r="0.7" fill="#80bda0" opacity="0.33"/>
+<circle cx="528.5" cy="242.0" r="0.55" fill="#80bda0" opacity="0.42"/>
+<circle cx="1160.8" cy="20.4" r="1.2" fill="#80bda0" opacity="0.36"/>
+<circle cx="1157.2" cy="178.1" r="0.9" fill="#80bda0" opacity="0.44"/>
+<circle cx="565.6" cy="146.0" r="0.7" fill="#80bda0" opacity="0.39"/>
+<circle cx="810.2" cy="130.3" r="1.2" fill="#80bda0" opacity="0.38"/>
+<circle cx="301.4" cy="172.0" r="1.5" fill="#80bda0" opacity="0.28"/>
+<circle cx="1043.0" cy="234.1" r="0.7" fill="#80bda0" opacity="0.27"/>
+<circle cx="611.5" cy="313.4" r="1.2" fill="#80bda0" opacity="0.16"/>
+<circle cx="1019.7" cy="213.6" r="1.2" fill="#80bda0" opacity="0.32"/>
+<circle cx="336.2" cy="244.9" r="0.7" fill="#80bda0" opacity="0.15"/>
+<circle cx="910.4" cy="62.0" r="0.55" fill="#80bda0" opacity="0.41"/>
+<circle cx="794.2" cy="111.3" r="0.9" fill="#80bda0" opacity="0.45"/>
+<circle cx="373.5" cy="217.7" r="0.55" fill="#80bda0" opacity="0.27"/>
+<circle cx="414.6" cy="161.7" r="0.55" fill="#80bda0" opacity="0.36"/>
+<circle cx="187.6" cy="254.2" r="0.9" fill="#80bda0" opacity="0.31"/>
+    <rect x="9" y="9" width="1202" height="327" fill="none" stroke="#80bda0" stroke-opacity=".68"/>
+    <rect x="21" y="21" width="1178" height="303" fill="none" stroke="#80bda0" stroke-opacity=".16"/>
+    <rect x="71" y="64" width="45" height="2" fill="#80bda0"/>
+    <text x="133" y="70" fill="#80bda0" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="3">FRONTEND  /  COMMUNITY EXPERIENCES</text>
+    <text x="70" y="157" fill="url(#titleGradient)" font-family="Georgia, serif" font-size="64">Community</text>
+    <text x="70" y="218" fill="#e6ded0" font-family="Georgia, serif" font-size="54">Events</text>
+    <path d="M70 254H650" stroke="#80bda0" stroke-opacity=".4"/>
+    <text x="70" y="288" fill="#b9c9c5" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing=".5">VUE  /  VITE  /  JAVASCRIPT</text>
+    
+<g transform="translate(967 158)" fill="none" stroke="#83bd9d">
+        <circle r="149" opacity=".15"/><circle r="131" opacity=".4" stroke-dasharray="3 8"/>
+        <rect x="-108" y="-96" width="216" height="196" rx="15" fill="#183530" stroke-width="3"/>
+        <path d="M-108 -46H108M-65 -114V-78M65 -114V-78" stroke="#c4f0d2" stroke-width="7" stroke-linecap="round"/>
+        <path d="M-74 -11H-39M-16 -11H19M42 -11H77M-74 26H-39M-16 26H19M42 26H77M-74 62H-39" stroke="#b1d9bf" stroke-width="12" stroke-linecap="round" opacity=".46"/>
+        <rect x="8" y="10" width="34" height="35" rx="4" fill="#7abb9c" stroke="none"/>
+        <path d="M-104 102L-133 130M104 102L133 130" opacity=".43"/>
+        </g>
+<path d="M52 20 H20 V52" stroke="#80bda0" stroke-opacity=".82" stroke-width="2" fill="none"/>
+<path d="M38 31 L31 38" stroke="#80bda0" stroke-opacity=".35" stroke-width="1.1"/>
+<path d="M1168 20 H1200 V52" stroke="#80bda0" stroke-opacity=".82" stroke-width="2" fill="none"/>
+<path d="M1182 31 L1189 38" stroke="#80bda0" stroke-opacity=".35" stroke-width="1.1"/>
+<path d="M52 325 H20 V293" stroke="#80bda0" stroke-opacity=".82" stroke-width="2" fill="none"/>
+<path d="M38 314 L31 307" stroke="#80bda0" stroke-opacity=".35" stroke-width="1.1"/>
+<path d="M1168 325 H1200 V293" stroke="#80bda0" stroke-opacity=".82" stroke-width="2" fill="none"/>
+<path d="M1182 314 L1189 307" stroke="#80bda0" stroke-opacity=".35" stroke-width="1.1"/>
+</svg>
