@@ -88,7 +88,7 @@ My everyday environment is **Linux on WSL2**, **VS Code**, **Git**, and **Python
 
 Interested in collaborating, discussing a project, or exploring something technical?
 
-[**GitHub**](https://github.com/DevIsola) &nbsp;·&nbsp; [**Repositories**](https://github.com/DevIsola?tab=repositories) &nbsp;·&nbsp; [**Chronicles of the Multiverse**](https://devisola.github.io/mtg-history/) &nbsp;·&nbsp; [**KoFi**]([https://github.com/DevIsola?tab=repositories](https://ko-fi.com/devdisola))
+[**GitHub**](https://github.com/DevIsola) &nbsp;·&nbsp; [**Repositories**](https://github.com/DevIsola?tab=repositories) &nbsp;·&nbsp; [**Chronicles of the Multiverse**](https://devisola.github.io/mtg-history/) &nbsp;·&nbsp; [**KoFi**](https://ko-fi.com/devdisola)
 
 <div align="center">
   <br />
