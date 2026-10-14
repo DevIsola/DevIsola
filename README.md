@@ -14,7 +14,7 @@ I work across full-stack engineering and applied machine learning — from polis
 
 <br />
 
-## Selected work
+## My work
 
 <a href="https://github.com/DevIsola/mtg-history">
   <img src="./assets/chronicles-card.svg" width="100%" alt="Chronicles of the Multiverse project artwork" />
