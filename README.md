@@ -88,7 +88,21 @@ My everyday environment is **Linux on WSL2**, **VS Code**, **Git**, and **Python
 
 Interested in collaborating, discussing a project, or exploring something technical?
 
-[**GitHub**](https://github.com/DevIsola) &nbsp;·&nbsp; [**Repositories**](https://github.com/DevIsola?tab=repositories) &nbsp;·&nbsp; [**Chronicles of the Multiverse**](https://devisola.github.io/mtg-history/) &nbsp;·&nbsp; [**KoFi**](https://ko-fi.com/devdisola)
+[**GitHub**](https://github.com/DevIsola) &nbsp;·&nbsp; [**Repositories**](https://github.com/DevIsola?tab=repositories) &nbsp;·&nbsp; [**Chronicles of the Multiverse**](https://devisola.github.io/mtg-history/) &nbsp;·&nbsp;
+
+## Support the work
+
+If you enjoy my open-source projects, you can help
+support their ongoing development.
+It's entirely optional — the work stays free to explore.
+
+<a href="https://ko-fi.com/devdisola">
+  <img
+    src="./assets/ko-fi-button.svg"
+    width="250"
+    alt="Support my work on Ko-fi"
+  />
+</a>
 
 <div align="center">
   <br />
