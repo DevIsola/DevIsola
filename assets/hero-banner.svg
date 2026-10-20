@@ -200,13 +200,8 @@
 <text x="95" y="217" font-size="91" fill="url(#gold)" font-family="Georgia, 'Times New Roman', serif">Dan Vilar</text>
 <path d="M99 238H705" stroke="#d0ae76" stroke-opacity=".55"/>
 <text x="99" y="288" font-size="30" fill="#f0e5d4" font-family="Georgia, 'Times New Roman', serif" font-style="italic">Engineering what's next.</text>
-<text x="99" y="330" font-size="20" fill="#b7c8c1" font-family="Arial, Helvetica, sans-serif">Software development  /  Applied AI  /  Data-driven systems</text>
-<g fill="#dbc397" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.2">
- <text x="99" y="409">PYTHON</text><circle cx="198" cy="403" r="3" fill="#6aa991"/>
- <text x="216" y="409">PYTORCH</text><circle cx="329" cy="403" r="3" fill="#6aa991"/>
- <text x="349" y="409">TYPESCRIPT</text><circle cx="499" cy="403" r="3" fill="#6aa991"/>
- <text x="516" y="409">NEXT.JS</text>
-</g>
+<text x="99" y="330" font-size="20" fill="#b7c8c1" font-family="Arial, Helvetica, sans-serif">Full-stack products  /  Applied ML  /  Data-driven systems</text>
+<text x="99" y="409" fill="#dbc397" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.2">PYTHON<tspan fill="#6aa991" dx="14">•</tspan><tspan dx="14">TYPESCRIPT</tspan><tspan fill="#6aa991" dx="14">•</tspan><tspan dx="14">ASTRO</tspan><tspan fill="#6aa991" dx="14">•</tspan><tspan dx="14">NEXT.JS</tspan><tspan fill="#6aa991" dx="14">•</tspan><tspan dx="14">PYTORCH</tspan></text>
 <rect x="8" y="8" width="1424" height="464" fill="none" stroke="#c3a16d" stroke-opacity=".72" stroke-width="1.4"/>
 <rect x="23" y="23" width="1394" height="434" fill="none" stroke="#b99764" stroke-opacity=".23" stroke-width="1"/>
 
