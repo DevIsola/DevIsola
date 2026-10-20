@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="470" viewBox="0 0 1220 470" role="img" aria-labelledby="title desc"><title id="title">Chronicles of the Multiverse — featured project</title><desc id="desc">An illustrated history of the Magic: The Gathering Multiverse. 10 chapters, 88 characters, 130 events, 118 relationships and 133 card printings, live on GitHub Pages.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b20"/><stop offset=".55" stop-color="#182b2e"/><stop offset="1" stop-color="#0b171c"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#d2b17e" stop-opacity=".30"/><stop offset="1" stop-color="#d2b17e" stop-opacity="0"/></radialGradient>
+<linearGradient id="titleGradient" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f6e7d3"/><stop offset="1" stop-color="#d2b17e"/></linearGradient>
+<linearGradient id="band" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#0b161b" stop-opacity="0"/><stop offset="1" stop-color="#0b161b" stop-opacity=".55"/></linearGradient>
+<pattern id="p" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" stroke="#a7c1b3" stroke-opacity=".055" fill="none"/></pattern>
+</defs>
+<rect width="1220" height="470" fill="url(#bg)"/><rect width="1220" height="470" fill="url(#p)"/>
+<ellipse cx="975" cy="160" rx="300" ry="230" fill="url(#glow)"/>
+<circle cx="817.5" cy="47.3" r="0.9" fill="#d2b17e" opacity="0.41"/>
+<circle cx="1179.3" cy="273.3" r="0.7" fill="#d2b17e" opacity="0.42"/>
+<circle cx="360.4" cy="205.3" r="0.9" fill="#d2b17e" opacity="0.45"/>
+<circle cx="725.4" cy="124.5" r="0.9" fill="#d2b17e" opacity="0.45"/>
+<circle cx="234.0" cy="196.3" r="0.7" fill="#d2b17e" opacity="0.19"/>
+<circle cx="908.5" cy="162.3" r="0.55" fill="#d2b17e" opacity="0.32"/>
+<circle cx="108.8" cy="102.4" r="1.2" fill="#d2b17e" opacity="0.20"/>
+<circle cx="490.1" cy="263.5" r="0.9" fill="#d2b17e" opacity="0.38"/>
+<circle cx="199.9" cy="131.1" r="0.55" fill="#d2b17e" opacity="0.16"/>
+<circle cx="1118.7" cy="177.2" r="0.55" fill="#d2b17e" opacity="0.29"/>
+<circle cx="664.2" cy="133.1" r="0.7" fill="#d2b17e" opacity="0.16"/>
+<circle cx="989.0" cy="58.7" r="1.5" fill="#d2b17e" opacity="0.22"/>
+<circle cx="865.1" cy="233.6" r="1.5" fill="#d2b17e" opacity="0.39"/>
+<circle cx="1106.3" cy="231.3" r="0.55" fill="#d2b17e" opacity="0.12"/>
+<circle cx="295.2" cy="201.7" r="0.9" fill="#d2b17e" opacity="0.32"/>
+<circle cx="1131.4" cy="130.7" r="0.55" fill="#d2b17e" opacity="0.26"/>
+<circle cx="635.2" cy="257.7" r="0.55" fill="#d2b17e" opacity="0.25"/>
+<circle cx="1153.5" cy="40.5" r="0.7" fill="#d2b17e" opacity="0.36"/>
+<circle cx="1135.2" cy="227.6" r="0.7" fill="#d2b17e" opacity="0.17"/>
+<circle cx="1052.6" cy="30.7" r="0.9" fill="#d2b17e" opacity="0.35"/>
+<circle cx="1036.2" cy="280.5" r="0.55" fill="#d2b17e" opacity="0.29"/>
+<circle cx="451.2" cy="32.4" r="1.2" fill="#d2b17e" opacity="0.18"/>
+<circle cx="414.5" cy="271.1" r="1.5" fill="#d2b17e" opacity="0.21"/>
+<circle cx="983.4" cy="72.0" r="0.55" fill="#d2b17e" opacity="0.12"/>
+<circle cx="229.6" cy="30.8" r="0.9" fill="#d2b17e" opacity="0.30"/>
+<circle cx="782.2" cy="52.6" r="0.7" fill="#d2b17e" opacity="0.47"/>
+<circle cx="610.3" cy="81.0" r="1.2" fill="#d2b17e" opacity="0.32"/>
+<circle cx="1186.8" cy="182.0" r="1.2" fill="#d2b17e" opacity="0.24"/>
+<circle cx="1075.9" cy="257.3" r="0.55" fill="#d2b17e" opacity="0.39"/>
+<circle cx="1193.1" cy="19.2" r="0.55" fill="#d2b17e" opacity="0.33"/>
+<circle cx="1008.6" cy="274.7" r="0.55" fill="#d2b17e" opacity="0.38"/>
+<circle cx="1000.0" cy="26.4" r="0.7" fill="#d2b17e" opacity="0.23"/>
+<circle cx="1071.5" cy="42.3" r="0.7" fill="#d2b17e" opacity="0.34"/>
+<circle cx="627.8" cy="67.6" r="1.5" fill="#d2b17e" opacity="0.14"/>
+<circle cx="29.9" cy="23.2" r="0.7" fill="#d2b17e" opacity="0.31"/>
+<circle cx="52.7" cy="169.7" r="0.7" fill="#d2b17e" opacity="0.26"/>
+<circle cx="678.2" cy="196.9" r="0.9" fill="#d2b17e" opacity="0.37"/>
+<circle cx="714.9" cy="182.9" r="0.9" fill="#d2b17e" opacity="0.25"/>
+<rect x="21" y="312" width="1178" height="137" fill="url(#band)"/>
+<g transform="translate(975 172) scale(.86)" fill="none" stroke="#d2b17e">
+<circle r="150" stroke-opacity=".22"/><circle r="128" stroke-opacity=".3" stroke-dasharray="2 7"/>
+<path d="M-83 106V-15A83 83 0 0 1 83 -15V106" stroke-width="5" opacity=".77"/>
+<path d="M-61 106V-15A61 61 0 0 1 61 -15V106" stroke-width="2" opacity=".65"/>
+<path d="M-48 105C-7 61-25 36 5 7C28 -17 14 -48-6 -76" stroke="#f0d8ae" stroke-opacity=".72" stroke-width="4"/>
+<path d="M-106 106H106M-90 115H90" opacity=".5"/>
+
+</g>
+<rect x="9" y="9" width="1202" height="452" fill="none" stroke="#d2b17e" stroke-opacity=".68"/>
+<rect x="21" y="21" width="1178" height="428" fill="none" stroke="#d2b17e" stroke-opacity=".16"/>
+<rect x="71" y="64" width="45" height="2" fill="#d2b17e"/>
+<text x="133" y="70" fill="#d2b17e" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="3">FEATURED PROJECT  /  LIVE ON GITHUB PAGES</text>
+<text x="70" y="152" fill="url(#titleGradient)" font-family="Georgia, 'Times New Roman', serif" font-size="64">Chronicles of</text>
+<text x="70" y="212" fill="#e6ded0" font-family="Georgia, 'Times New Roman', serif" font-size="54">the Multiverse</text>
+<text x="72" y="262" fill="#c9d4cf" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-style="italic">An illustrated history of the Magic: The Gathering Multiverse.</text>
+<path d="M70 312H1150" stroke="#d2b17e" stroke-opacity=".42"/>
+<path d="M610 306l6 6-6 6-6-6z" fill="#d2b17e"/>
+<text x="178" y="380" text-anchor="middle" fill="url(#titleGradient)" font-family="Georgia, 'Times New Roman', serif" font-size="48">10</text>
+<text x="178" y="412" text-anchor="middle" fill="#a5c9b8" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2.6">CHAPTERS</text>
+<text x="394" y="380" text-anchor="middle" fill="url(#titleGradient)" font-family="Georgia, 'Times New Roman', serif" font-size="48">88</text>
+<text x="394" y="412" text-anchor="middle" fill="#a5c9b8" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2.6">CHARACTERS</text>
+<path d="M286 340V418" stroke="#d2b17e" stroke-opacity=".22"/>
+<text x="610" y="380" text-anchor="middle" fill="url(#titleGradient)" font-family="Georgia, 'Times New Roman', serif" font-size="48">130</text>
+<text x="610" y="412" text-anchor="middle" fill="#a5c9b8" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2.6">EVENTS</text>
+<path d="M502 340V418" stroke="#d2b17e" stroke-opacity=".22"/>
+<text x="826" y="380" text-anchor="middle" fill="url(#titleGradient)" font-family="Georgia, 'Times New Roman', serif" font-size="48">118</text>
+<text x="826" y="412" text-anchor="middle" fill="#a5c9b8" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2.6">RELATIONSHIPS</text>
+<path d="M718 340V418" stroke="#d2b17e" stroke-opacity=".22"/>
+<text x="1042" y="380" text-anchor="middle" fill="url(#titleGradient)" font-family="Georgia, 'Times New Roman', serif" font-size="48">133</text>
+<text x="1042" y="412" text-anchor="middle" fill="#a5c9b8" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2.6">CARD PRINTINGS</text>
+<path d="M934 340V418" stroke="#d2b17e" stroke-opacity=".22"/>
+<path d="M52 20 H20 V52" stroke="#d2b17e" stroke-opacity=".82" stroke-width="2" fill="none"/>
+<path d="M38 31 L31 38" stroke="#d2b17e" stroke-opacity=".35" stroke-width="1.1"/>
+<path d="M1168 20 H1200 V52" stroke="#d2b17e" stroke-opacity=".82" stroke-width="2" fill="none"/>
+<path d="M1182 31 L1189 38" stroke="#d2b17e" stroke-opacity=".35" stroke-width="1.1"/>
+<path d="M52 450 H20 V418" stroke="#d2b17e" stroke-opacity=".82" stroke-width="2" fill="none"/>
+<path d="M38 439 L31 432" stroke="#d2b17e" stroke-opacity=".35" stroke-width="1.1"/>
+<path d="M1168 450 H1200 V418" stroke="#d2b17e" stroke-opacity=".82" stroke-width="2" fill="none"/>
+<path d="M1182 439 L1189 432" stroke="#d2b17e" stroke-opacity=".35" stroke-width="1.1"/>
+</svg>
